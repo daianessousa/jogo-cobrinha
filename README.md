@@ -1,5 +1,6 @@
 # Snack Game
-Recriando jogo da cobrinha com JavaScript
+Recriando o jogo clássico de cobrinha em Java Script, com contagem de pontos.
 
+![alt-text](https://raw.githubusercontent.com/daianessousa/jogo-cobrinha/main/snake_game.gif)
 
 
